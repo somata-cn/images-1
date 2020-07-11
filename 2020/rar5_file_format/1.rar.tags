@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wxHexEditor_XML_TAG>
+  <filename path="I:\IT_study\数据恢复\_v_attachments\20200702204446662_32676\1.rar">
+    <TAG id="0">
+      <start_offset>0</start_offset>
+      <end_offset>7</end_offset>
+      <tag_text>文件头</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#EF2929</note_colour>
+    </TAG>
+    <TAG id="1">
+      <start_offset>8</start_offset>
+      <end_offset>11</end_offset>
+      <tag_text>CRC32</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#FCAF3E</note_colour>
+    </TAG>
+    <TAG id="2">
+      <start_offset>12</start_offset>
+      <end_offset>12</end_offset>
+      <tag_text>头大小</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#8AE234</note_colour>
+    </TAG>
+    <TAG id="3">
+      <start_offset>13</start_offset>
+      <end_offset>13</end_offset>
+      <tag_text>头类型</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#729FCF</note_colour>
+    </TAG>
+    <TAG id="4">
+      <start_offset>14</start_offset>
+      <end_offset>14</end_offset>
+      <tag_text> 头flag</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#AD7FA8</note_colour>
+    </TAG>
+    <TAG id="5">
+      <start_offset>15</start_offset>
+      <end_offset>15</end_offset>
+      <tag_text>扩展区域大小</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#E9B96E</note_colour>
+    </TAG>
+    <TAG id="6">
+      <start_offset>16</start_offset>
+      <end_offset>16</end_offset>
+      <tag_text>归档flag</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#888A85</note_colour>
+    </TAG>
+    <TAG id="7">
+      <start_offset>17</start_offset>
+      <end_offset>22</end_offset>
+      <tag_text>扩展区域</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#CC0000</note_colour>
+    </TAG>
+    <TAG id="8">
+      <start_offset>23</start_offset>
+      <end_offset>26</end_offset>
+      <tag_text>头CRC32</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#F57900</note_colour>
+    </TAG>
+    <TAG id="9">
+      <start_offset>27</start_offset>
+      <end_offset>27</end_offset>
+      <tag_text>头大小</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#EDD400</note_colour>
+    </TAG>
+    <TAG id="10">
+      <start_offset>28</start_offset>
+      <end_offset>28</end_offset>
+      <tag_text>头类型</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#73D216</note_colour>
+    </TAG>
+    <TAG id="11">
+      <start_offset>29</start_offset>
+      <end_offset>29</end_offset>
+      <tag_text>头flag</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#3465A4</note_colour>
+    </TAG>
+    <TAG id="12">
+      <start_offset>30</start_offset>
+      <end_offset>30</end_offset>
+      <tag_text>扩展区域大小</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#75507B</note_colour>
+    </TAG>
+    <TAG id="13">
+      <start_offset>31</start_offset>
+      <end_offset>32</end_offset>
+      <tag_text>数据段大小</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#C17D11</note_colour>
+    </TAG>
+    <TAG id="14">
+      <start_offset>33</start_offset>
+      <end_offset>33</end_offset>
+      <tag_text>文件flag</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#555753</note_colour>
+    </TAG>
+    <TAG id="15">
+      <start_offset>34</start_offset>
+      <end_offset>35</end_offset>
+      <tag_text>未解压大小</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#A40000</note_colour>
+    </TAG>
+    <TAG id="16">
+      <start_offset>36</start_offset>
+      <end_offset>38</end_offset>
+      <tag_text>属性</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#CE5C00</note_colour>
+    </TAG>
+    <TAG id="17">
+      <start_offset>39</start_offset>
+      <end_offset>42</end_offset>
+      <tag_text>数据CRC32</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#67E5B5</note_colour>
+    </TAG>
+    <TAG id="18">
+      <start_offset>43</start_offset>
+      <end_offset>44</end_offset>
+      <tag_text>压缩信息</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#67E5B5</note_colour>
+    </TAG>
+    <TAG id="19">
+      <start_offset>45</start_offset>
+      <end_offset>45</end_offset>
+      <tag_text>操作系统</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#C4A000</note_colour>
+    </TAG>
+    <TAG id="20">
+      <start_offset>46</start_offset>
+      <end_offset>46</end_offset>
+      <tag_text>文件名长度</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#4E9A06</note_colour>
+    </TAG>
+    <TAG id="21">
+      <start_offset>47</start_offset>
+      <end_offset>51</end_offset>
+      <tag_text>文件名称</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#204A87</note_colour>
+    </TAG>
+    <TAG id="22">
+      <start_offset>52</start_offset>
+      <end_offset>62</end_offset>
+      <tag_text>扩展区域</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#5C3566</note_colour>
+    </TAG>
+    <TAG id="23">
+      <start_offset>63</start_offset>
+      <end_offset>83</end_offset>
+      <tag_text>文件内容</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#8F5902</note_colour>
+    </TAG>
+    <TAG id="24">
+      <start_offset>84</start_offset>
+      <end_offset>91</end_offset>
+      <tag_text>RAR结尾</tag_text>
+      <font_colour>#FFFFFF</font_colour>
+      <note_colour>#BABDB6</note_colour>
+    </TAG>
+  </filename>
+</wxHexEditor_XML_TAG>
