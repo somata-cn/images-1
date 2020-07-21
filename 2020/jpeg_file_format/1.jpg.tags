@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wxHexEditor_XML_TAG>
+  <filename path="I:\IT_study\数据恢复\_v_attachments\20200629152539566_10062\1.jpg">
+    <TAG id="0">
+      <start_offset>0</start_offset>
+      <end_offset>1</end_offset>
+      <tag_text>SOI</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FF80C0</note_colour>
+    </TAG>
+    <TAG id="1">
+      <start_offset>2</start_offset>
+      <end_offset>19</end_offset>
+      <tag_text>APP0</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFFF00</note_colour>
+    </TAG>
+    <TAG id="2">
+      <start_offset>20</start_offset>
+      <end_offset>88</end_offset>
+      <tag_text>DQT-1</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#80FF80</note_colour>
+    </TAG>
+    <TAG id="3">
+      <start_offset>89</start_offset>
+      <end_offset>157</end_offset>
+      <tag_text>DQT-2</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FF80FF</note_colour>
+    </TAG>
+    <TAG id="4">
+      <start_offset>158</start_offset>
+      <end_offset>176</end_offset>
+      <tag_text>SOF0</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#80FFFF</note_colour>
+    </TAG>
+    <TAG id="5">
+      <start_offset>177</start_offset>
+      <end_offset>209</end_offset>
+      <tag_text>DHT-1</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#0080C0</note_colour>
+    </TAG>
+    <TAG id="6">
+      <start_offset>210</start_offset>
+      <end_offset>392</end_offset>
+      <tag_text>DHT-2</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FF8040</note_colour>
+    </TAG>
+    <TAG id="7">
+      <start_offset>393</start_offset>
+      <end_offset>425</end_offset>
+      <tag_text>DHT-3</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#808000</note_colour>
+    </TAG>
+    <TAG id="8">
+      <start_offset>426</start_offset>
+      <end_offset>608</end_offset>
+      <tag_text>DHT-4</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#808080</note_colour>
+    </TAG>
+    <TAG id="9">
+      <start_offset>609</start_offset>
+      <end_offset>622</end_offset>
+      <tag_text>SOS</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FF00FF</note_colour>
+    </TAG>
+    <TAG id="10">
+      <start_offset>623</start_offset>
+      <end_offset>5714</end_offset>
+      <tag_text>DATA</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FFFFFF</note_colour>
+    </TAG>
+    <TAG id="11">
+      <start_offset>5715</start_offset>
+      <end_offset>5716</end_offset>
+      <tag_text>EOI</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FF8000</note_colour>
+    </TAG>
+  </filename>
+</wxHexEditor_XML_TAG>
